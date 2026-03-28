@@ -1,13 +1,13 @@
 # Hidden Scars: An Analysis of Gender Health Inequalities in the Netherlands
 
 > **BSc Applied Economics** · Corvinus University of Budapest · 2024  
-> **Course:** Project 1 Research · **Instructor:** Kovács Emese
+> **Course:** Project Portfolio Research (1) · **Instructor:** Kovács Emese
 
 ---
 
 ## Abstract
 
-This paper investigates gender-based health disparities in the Netherlands using data from the 2013 EU-SILC (Statistics on Income and Living Conditions) survey. Despite the Netherlands' high healthcare standards, significant health outcome disparities persist across gender lines. Using ordinal logistic regression on a cleaned sample of **1,521 working individuals**, the study finds that **gender is the only statistically significant predictor** of self-reported health status — women are 6.1% less likely to report 'very good' health and more likely to report worse health across all categories compared to men.
+This paper investigates gender-based health disparities in the Netherlands using data from the 2013 EU-SILC (Statistics on Income and Living Conditions) survey. Despite the Netherlands' high healthcare standards, significant health outcome disparities persist across gender lines. Using ordinal logistic regression on a cleaned sample of **1,521 working individuals**, the study finds that in the built model **gender is the only statistically significant predictor**  of self-reported health status  — women are 6.1% less likely to report 'very good' health and more likely to report worse health across all categories compared to men.
 
 ---
 
@@ -87,17 +87,6 @@ hidden-scars-netherlands/
 1. Open **Stata**
 2. Load `NL_2013p_EUSILC.csv` as your working dataset
 3. Run `General_Heath_DatasetDoFile.do` — this handles data cleaning, variable recoding, the ordinal logistic regression, Brant test, and marginal effects estimation
-
----
-
-## Authors
-
-| Name | Institution |
-|---|---|
-| **Meshkovski Nikola** | Corvinus University of Budapest |
-| Yarovoy Daniil | Corvinus University of Budapest |
-| Katona Balázs Levente | Corvinus University of Budapest |
-| Kákonyi Bence | Corvinus University of Budapest |
 
 ---
 
