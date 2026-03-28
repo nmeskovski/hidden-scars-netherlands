@@ -76,7 +76,7 @@ hidden-scars-netherlands/
 │
 ├── README.md                          # This file
 ├── Hidden_Scars_in_The_Netherlands.pdf  # Full paper
-├── General_Heath_DatasetDoFile.do     # Stata do-file (data cleaning & analysis)
+├── General_Heath_Dataset_Do_File.do     # Stata do-file (data cleaning & analysis)
 └── NL_2013p_EUSILC.csv               # EU-SILC dataset (Netherlands, 2013)
 ```
 
