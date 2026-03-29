@@ -12,7 +12,7 @@
 ********************************************************************************
 
 clear
-import delimited "YOUR_DIRECTORY/NL_PUF_EUSILC/NL_2013p_EUSILC.csv"
+import delimited "Your directory goes here /data.csv"
 
 * Retain only variables relevant to the analysis
 keep pb150 ph010 pl051 pb140 pl060 pb190
