@@ -76,8 +76,10 @@ hidden-scars-netherlands/
 │
 ├── README.md                          # This file
 ├── Hidden_Scars_in_The_Netherlands.pdf  # Full paper
+└── IISR_Certificate_Nikola_Meshkovski.csv  # International Scientific Conference Certification
 ├── General_Do_File.do     # Stata do-file (data cleaning & analysis)
 └── data.csv               # EU-SILC dataset (Netherlands, 2013)
+
 ```
 
 ---
