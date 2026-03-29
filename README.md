@@ -1,7 +1,7 @@
 # Hidden Scars: An Analysis of Gender Health Inequalities in the Netherlands
 
 > **BSc Applied Economics** · Corvinus University of Budapest · 2024  
-> **Course:** Project Portfolio Research (1) · **Instructor:** Kovács Emese
+> **Course:** First Project Portfolio Research · **Instructor:** Kovács Emese
 
 ---
 
